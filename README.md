@@ -172,7 +172,7 @@ Los fractales son figuras que se repiten a diferentes escalas.
 - Sierpinski  
 - Mandelbrot  
 
-![Fractales](imagenes/fractales.png)
+
 
 ---
 
